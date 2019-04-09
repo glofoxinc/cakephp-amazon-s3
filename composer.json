@@ -1,6 +1,6 @@
 {
     "name": "glofox/cakephp-amazon-s3",
-    "description": "Amazon S3 Plugin for CakePHP",
+    "description": "Legacy and Deprecated Amazon S3 Plugin for CakePHP",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "aws", "s3"],
     "homepage": "https://bitbucket.com/glofox/cakephp-amazon-s3",
